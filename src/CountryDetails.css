@@ -1,0 +1,18 @@
+.country-details {
+  width: 25%;
+  padding: 10px;
+  border: 1px solid #00000038;
+  height: 170px;
+}
+
+.country-details-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bolder;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.country-details-body > div {
+  padding: 10px;
+}
